@@ -543,12 +543,6 @@ int main(int argc, char *argv[])
 
 
 
-		int currTileCoordX = (int)(alien.xPos / TILE_SIZE);
-		int currTileCoordY = (int)(-alien.yPos / TILE_SIZE);
-	//	cout << currTileCoordX << "        " << currTileCoordY << endl;
-		cout << levelData[currTileCoordX][currTileCoordY] << endl;
-
-
 
 
 
