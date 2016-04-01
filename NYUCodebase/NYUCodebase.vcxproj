@@ -76,11 +76,12 @@
   <ItemGroup>
     <ClCompile Include="Matrix.cpp" />
     <ClCompile Include="platformer.cpp" />
+    <ClCompile Include="processData.cpp" />
     <ClCompile Include="ShaderProgram.cpp" />
-    <ClCompile Include="spaceInvaders.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Matrix.h" />
+    <ClInclude Include="processData.h" />
     <ClInclude Include="ShaderProgram.h" />
   </ItemGroup>
   <ItemGroup>
